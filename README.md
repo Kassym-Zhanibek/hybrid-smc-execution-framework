@@ -27,6 +27,15 @@ The framework manages execution, position handling and risk controls automatical
 ## Technologies
 
 - MetaTrader 5
+## Screenshots
+
+### Dashboard
+
+![Dashboard](dashboard.png)
+
+### Risk Management Settings
+
+![Risk Settings](risk-settings.png)
 - MQL5
 
 ## Status
